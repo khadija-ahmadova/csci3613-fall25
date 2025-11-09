@@ -184,8 +184,6 @@ For both scenarios constraint propagation reduces domain but does not solve prob
 #### Question 4
 
 ### Adversarial Search
-#### Question 1
-#### Question 2
 
 <img src="https://github.com/khadija-ahmadova/csci3613-fall25/blob/main/assignment1/adversarial_search_q2.jpg?raw=true" alt="alt text" width="600" height="300">
 
